@@ -1,0 +1,12 @@
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\bin\Debug\net6.0\BattleshipLibrary.deps.json
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\bin\Debug\net6.0\BattleshipLibrary.dll
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\bin\Debug\net6.0\BattleshipLibrary.pdb
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\obj\Debug\net6.0\BattleshipLibrary.csproj.AssemblyReference.cache
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\obj\Debug\net6.0\BattleshipLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\obj\Debug\net6.0\BattleshipLibrary.AssemblyInfoInputs.cache
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\obj\Debug\net6.0\BattleshipLibrary.AssemblyInfo.cs
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\obj\Debug\net6.0\BattleshipLibrary.csproj.CoreCompileInputs.cache
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\obj\Debug\net6.0\BattleshipLibrary.dll
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\obj\Debug\net6.0\refint\BattleshipLibrary.dll
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\obj\Debug\net6.0\BattleshipLibrary.pdb
+C:\Users\santo\My Programmer Stuff\CS\BattleshipLibraryApp\BattleshipLibrary\obj\Debug\net6.0\ref\BattleshipLibrary.dll
